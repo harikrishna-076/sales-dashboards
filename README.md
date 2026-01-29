@@ -54,4 +54,6 @@ Power Query
 Outcome
 The dashboards provide a clear and interactive view of DMart’s retail performance, enabling stakeholders to quickly identify trends, issues, and opportunities for improvement.
 
-screenshots
+screenshots :  http://github.com/harikrishna-076/sales-dashboards/blob/main/sales%20dashboards.png
+
+  https://github.com/harikrishna-076/sales-dashboards/blob/main/product%20vs%20quantity%20vs%20region%20dashboard.png
